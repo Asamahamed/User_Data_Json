@@ -1,0 +1,102 @@
+{
+   "data":[
+      {
+         "id":1,
+         "Name":"Leanne ",
+         "DOB":"11/5/2000",
+         "profile":"https://www.pexels.com/photo/man-smiling-behind-wall-220453/",
+         "age":23
+      },
+      {
+         "id":2,
+         "Name":"Lore ",
+         "DOB":"17/4/2001",
+         "profile":"https://unsplash.com/photos/8CEKQlmnf50",
+         "age":22
+      },
+      {
+         "id":3,
+         "Name":"Rav ",
+         "DOB":"6/5/1986",
+         "profile":"https://unsplash.com/photos/LW3NPnvQ5Ns",
+         "age":45
+      },
+      {
+         "id":4,
+         "Name":"Peter ",
+         "DOB":"11/5/1886",
+         "profile":"https://unsplash.com/photos/1usdkITq3Ig",
+         "age":60
+      },
+      {
+         "id":5,
+         "Name":"Parker ",
+         "DOB":"11/8/1990",
+         "profile":"https://www.pexels.com/photo/man-smiling-behind-wall-220453/",
+         "age":36
+      },
+      {
+         "id":6,
+         "Name":"Hamaddi ",
+         "DOB":"11/5/1885",
+         "profile":"https://unsplash.com/photos/IcQVRR-nWbI",
+         "age":78
+      },
+      {
+         "id":7,
+         "Name":" Jonith",
+         "DOB":"1/11/1995",
+         "profile":"https://unsplash.com/photos/TpeBIIM0UIY",
+         "age":55
+      },
+      {
+         "id":8,
+         "Name":"Lisano ",
+         "DOB":"25/6/2001",
+         "profile":"https://unsplash.com/photos/7m88QnNHXaE",
+         "age":56
+      },
+      {
+         "id":9,
+         "Name":"Delham ",
+         "DOB":"21/8/1889",
+         "profile":"https://unsplash.com/photos/A6O7pgc7vHg",
+         "age":75
+      },
+      {
+         "id":10,
+         "Name":"Msark",
+         "DOB":"1/12/1885",
+         "profile":"https://unsplash.com/photos/e13jIFs7U30",
+         "age":72
+      },
+      {
+         "id":11,
+         "Name":" Meheda ",
+         "DOB":"14/10/2004",
+         "profile":"https://unsplash.com/photos/bjRbBrzjwJM",
+         "age":18
+      },
+      {
+         "id":12,
+         "Name":" Aravinth ",
+         "DOB":"11/7/1987",
+         "profile":"https://unsplash.com/photos/yObGLijqOUg",
+         "age":78
+      },
+      {
+         "id":13,
+         "Name":" Perat ",
+         "DOB":"11/5/1998",
+         "profile":"https://unsplash.com/photos/BZdMrxFFm5Q",
+         "age":25
+      },
+      {
+         "id":14,
+         "Name":"Liasa ",
+         "DOB":"21/11/2001",
+         "profile":"https://unsplash.com/photos/vVvUswf9b5c",
+         "age":22
+      }
+   ]
+}
